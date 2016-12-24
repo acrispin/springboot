@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <RollingFile name="RollingFile" fileName="./logs/springboot.log"
+                     filePattern="./logs/springboot-%i.log">
+            <PatternLayout pattern="%p [%d{yyyyMMdd HH:mm:ss.SSS}] - %-12C{} -%L - %m%n" />
+            <Policies>
+                <SizeBasedTriggeringPolicy size="4 MB" />
+            </Policies>
+            <DefaultRolloverStrategy max="9"/>
+        </RollingFile>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%p [springboot] [%d{yyyyMMdd HH:mm:ss.SSS}] - %-12C{1} -%L - %m%n" />
+        </Console>
+    </Appenders>
+    <Loggers>
+        <!-- Root level: en desarrollo DEBUG , en produccion INFO -->
+        <Root level="INFO">
+            <AppenderRef ref="RollingFile"/>
+            <AppenderRef ref="Console"/>
+        </Root>
+        <Logger name="org.springframework" level="ERROR">
+            <AppenderRef ref="RollingFile"/>
+            <AppenderRef ref="Console"/>
+        </Logger>
+    </Loggers>
+</Configuration>

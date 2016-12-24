@@ -1,0 +1,203 @@
+INFO [20161222 15:26:30.320] - com.anton.dev.servlet.AppServletListener -23 - Create listener
+INFO [20161222 15:26:30.326] - com.anton.dev.servlet.AppServletListener -24 - Main thread: localhost-startStop-1
+INFO [20161222 15:26:32.330] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:26:34.331] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:26:36.333] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:26:38.333] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:15.415] - com.anton.dev.servlet.AppServletListener -23 - Create listener
+INFO [20161222 15:28:15.421] - com.anton.dev.servlet.AppServletListener -24 - Main thread: localhost-startStop-1
+INFO [20161222 15:28:17.424] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:19.427] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:21.427] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:23.429] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:25.430] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:27.430] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:29.432] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:31.432] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:33.432] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:35.433] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:37.433] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:39.434] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:41.434] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:43.435] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:45.437] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:47.437] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:49.438] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:51.438] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:53.438] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:55.439] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:57.440] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:28:59.442] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:01.442] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:03.442] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:05.444] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:07.445] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:09.445] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:11.447] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:13.447] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:15.448] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:17.449] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:19.450] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:21.450] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:23.451] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:25.452] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:27.455] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:29.456] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:31.456] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:33.458] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:35.458] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:37.460] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:39.461] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:41.463] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:29:43.464] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:26.073] - com.anton.dev.servlet.AppServletListener -23 - Create listener
+INFO [20161222 15:30:26.076] - com.anton.dev.servlet.AppServletListener -24 - Main thread: localhost-startStop-1
+INFO [20161222 15:30:28.078] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:30.079] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:32.079] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:34.080] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:36.081] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:38.083] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:40.084] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:42.085] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:44.086] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:46.088] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:48.089] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:50.091] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:52.092] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:54.094] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:56.095] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:30:58.097] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:00.098] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:02.100] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:04.101] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:06.102] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:08.104] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:10.105] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:12.106] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:14.108] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:16.110] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:31:18.111] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:11.385] - com.anton.dev.servlet.AppServletListener -23 - Create listener
+INFO [20161222 15:35:11.390] - com.anton.dev.servlet.AppServletListener -24 - Main thread: localhost-startStop-1
+INFO [20161222 15:35:13.394] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:15.396] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:17.396] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:19.396] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:21.396] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:23.397] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:25.399] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:27.400] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:29.401] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:31.402] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:33.403] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:35.404] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:37.404] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:39.404] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:41.406] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:43.406] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:45.407] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:47.407] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:49.408] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:51.408] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:53.408] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:55.408] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:35:57.409] - com.anton.dev.servlet.AppServletListener -54 - Run thread: Thread-1
+INFO [20161222 15:49:24.617] - com.anton.dev.servlet.AppServletListener -31 - Create listener
+INFO [20161222 15:49:24.621] - com.anton.dev.servlet.AppServletListener -32 - Main thread: localhost-startStop-1
+INFO [20161222 15:49:26.623] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:26.628] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:28.638] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:28.638] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:30.648] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:30.649] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:32.664] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:32.665] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:34.679] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:34.680] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:36.690] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:36.692] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:38.706] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:38.706] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:40.719] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:40.719] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:42.726] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:42.727] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:44.741] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:44.742] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:49:46.755] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 15:49:46.757] - com.anton.dev.servlet.AppServletListener -72 - java.nio.file.NoSuchFileException: test.txt
+INFO [20161222 15:57:07.271] - com.anton.dev.servlet.AppServletListener -31 - Create listener
+INFO [20161222 15:57:07.274] - com.anton.dev.servlet.AppServletListener -32 - Main thread: localhost-startStop-1
+INFO [20161222 15:57:09.276] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 15:57:11.301] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 15:57:13.312] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 15:57:15.328] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 15:57:17.339] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:05:38.477] - com.anton.dev.servlet.AppServletListener -31 - Create listener
+INFO [20161222 16:05:38.480] - com.anton.dev.servlet.AppServletListener -32 - Main thread: localhost-startStop-1
+INFO [20161222 16:05:40.484] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:40.488] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:40.489] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:05:42.491] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:42.492] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:42.492] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:05:44.493] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:44.494] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:44.495] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:05:46.497] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:46.498] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:46.499] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:05:48.499] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:48.500] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:48.501] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:05:50.503] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:50.504] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:50.505] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:05:52.506] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:52.507] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:52.507] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:05:54.507] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:54.508] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:54.509] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:05:56.510] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:05:56.511] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+ERROR [20161222 16:05:56.513] - com.anton.dev.servlet.AppServletListener -89 - java.io.FileNotFoundException: test\test2.txt (El sistema no puede encontrar la ruta especificada)
+INFO [20161222 16:06:18.382] - com.anton.dev.servlet.AppServletListener -31 - Create listener
+INFO [20161222 16:06:18.390] - com.anton.dev.servlet.AppServletListener -32 - Main thread: localhost-startStop-1
+INFO [20161222 16:06:20.392] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:06:20.397] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+INFO [20161222 16:06:22.407] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:06:22.409] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+INFO [20161222 16:06:24.415] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:06:24.416] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+INFO [20161222 16:06:26.418] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:06:26.419] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+INFO [20161222 16:06:28.428] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:06:28.429] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+INFO [20161222 16:06:30.432] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+ERROR [20161222 16:06:30.433] - com.anton.dev.servlet.AppServletListener -73 - java.nio.file.NoSuchFileException: test\test1.txt
+INFO [20161222 16:07:00.854] - com.anton.dev.servlet.AppServletListener -31 - Create listener
+INFO [20161222 16:07:00.861] - com.anton.dev.servlet.AppServletListener -32 - Main thread: localhost-startStop-1
+INFO [20161222 16:07:02.864] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:04.939] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:06.948] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:08.961] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:10.983] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:13.002] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:15.082] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:17.108] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:19.134] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:07:21.161] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:25.761] - com.anton.dev.servlet.AppServletListener -31 - Create listener
+INFO [20161222 16:09:25.766] - com.anton.dev.servlet.AppServletListener -32 - Main thread: localhost-startStop-1
+INFO [20161222 16:09:27.769] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:29.799] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:31.866] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:33.893] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:35.918] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:37.943] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:39.982] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:42.012] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:44.027] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1
+INFO [20161222 16:09:46.065] - com.anton.dev.servlet.AppServletListener -62 - Run thread: Thread-1

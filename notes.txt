@@ -1,0 +1,13 @@
+
+http://howtodoinjava.com/spring/spring-boot/spring-boot-tutorial-with-hello-world-example/
+
+para generar proyecto base
+http://start.spring.io/
+
+kill port windows
+http://stackoverflow.com/questions/6204003/kill-a-process-by-looking-up-the-port-being-used-by-it-from-a-bat/30703100#30703100
+C:\Users\username>netstat -o -n -a | findstr 0.0:3000
+   TCP    0.0.0.0:3000      0.0.0.0:0              LISTENING       3116
+
+C:\Users\username>taskkill /F /PID 3116
+
